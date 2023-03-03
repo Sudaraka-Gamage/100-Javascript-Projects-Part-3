@@ -1,19 +1,19 @@
-# button-ripple-effect
+# Button-ripple-effect
 
-# calculator
+# Calculator
 
-# card-3d-hover
+# Card-3d-hover
 
-# circular-crossbar
+# Circular-crossbar
 
-# confirm-password-check
+# Confirm-password-check
 
-# dictionary-app
+# Dictionary-app
 
-# random-quote-generator
+# Random-quote-generator
 
-# todo-list-app
+# Todo-list-app
 
-# todo-list-small
+# Todo-list-small
 
-# word-guess-game
+# Word-guess-game
